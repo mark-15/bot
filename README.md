@@ -1,7 +1,7 @@
 # Twitter Bot
 
 ## Pre-requisite
-\
+
 ### Twitter Developer Account
 
 - Consumer Keys
@@ -21,25 +21,9 @@ Please see the link below for more information:
 
  
 ### A MongoDB Database
-
 This bot uses mongodb to store the last createdAtBlockNumber and used it as a reference to retrieve the new purchases.
 
 
-### Environement Variables
-- NODE_ENV
-- LOG_LEVEL
-- PORT
-- SANDBOX
-- ALLOWED_CORS_ORIGINS
-- WHITELISTED_CORS_DOMAINS
-- FALLBACK_CORS_ORIGIN
-- TWITTER_CONSUMER_API_KEY
-- TWITTER_CONSUMER_API_SECRET
-- TWITTER_ACCESS_TOKEN
-- TWITTER_ACCESS_SECRET
-- MONGODB_CONNECTION_STRING
-- RECEIPT_URL
-- GRAPH_URL
 ### Usage
 
 This bot has only one endpoint and it's:
