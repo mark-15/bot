@@ -1,0 +1,1 @@
+export const LIQUIDITY_TOKEN_DECIMALS = 6
